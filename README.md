@@ -1,7 +1,8 @@
 # Revenue_Forecasting_Net_Prophet
 Challenge11
 
-## Forecasting Net Prophet
+# This project leverages Google Colab to run a .ipynb notebook. Google Colab link as below:
+https://colab.research.google.com/drive/1X9cpTrXAYbLDz9j7sb5t7ZN1hSxx82nx#scrollTo=EIB9BCU9oKGk
 
 ### Description 
 
@@ -9,7 +10,7 @@ In this challenge, You’re a growth analyst at MercadoLibre. With over 200 mill
 
 ### Technologies
 
-This project leverages Google Colab to run a .ipynb notebook. The following packages are also used:
+The following packages are also used:
 
 - pandas - Data analysis toolkit for Python.
 
